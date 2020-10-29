@@ -1,0 +1,2 @@
+This is a file wich may or may not contain words, however because of the fact that you are reading this, I guess you could say that the file DOES
+actually contain some words, albeit very few if you were to compare the count of them with that of more complex works.
